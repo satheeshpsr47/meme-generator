@@ -1,7 +1,6 @@
 *{
   box-sizing: border-box;
-  /* margin: 0;
-  padding: 0; */
+ 
 }
 .meme-header{
   padding: 36px;
@@ -85,7 +84,7 @@
   font-size: 2em;
   letter-spacing: 1px;
   text-transform: uppercase;
-  /* border: 1px solid gray; */
+
   text-shadow:
         2px 2px 0 #000,
         -2px -2px 0 #000,
